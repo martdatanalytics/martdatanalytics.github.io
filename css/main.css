@@ -9,7 +9,8 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    font-color: #0c005f;
+    /*font-color: #0c005f;*/
+    font-color: blue;
     font-size: 200%;
 }
 nav ul li, footer ul li {
