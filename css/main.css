@@ -7,13 +7,13 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    font-color: Blue;
+    font-color: #0c005f;
     font-size: 200%;
 }
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-    color: Red;
+    color: #e50914;
 }
 a {
     text-decoration: none;
