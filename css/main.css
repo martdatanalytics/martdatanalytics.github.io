@@ -52,6 +52,11 @@ ul.posts li {
     list-style: none;
     font-size:1.5em;
 }
+ul.posts li p{
+    list-style: none;
+    font-size:1.0em;
+    text-align:justify;
+}
 .main-content img {
    float: left;
    padding: 0 20px 20px 0;
