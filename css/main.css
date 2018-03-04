@@ -34,7 +34,7 @@ p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
-    align: justify;
+    text-align: justify;
     font-family: 'Roboto', serif;
 }
 footer {
