@@ -11,7 +11,7 @@
 						
 	$to = "martdatanalytics@gmail.com";
 	$headers = "From: $email_from \r\n";
-	$headers = "Reply-to: $visitor_email \r\n";
+	$headers .= "Reply-to: $visitor_email \r\n";
 	mail($to, $email_from, $email_body, $headers);
 	header("location: index.html");
 
